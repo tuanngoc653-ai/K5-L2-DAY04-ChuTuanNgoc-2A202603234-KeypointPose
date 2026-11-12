@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603234",
+ "ten": "ChuTuanNgoc",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "ngocchu",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000164659.jpg",
+  "000000177889.jpg",
+  "000000343057.jpg",
+  "000000390585.jpg",
+  "000000455536.jpg",
+  "000000156986.jpg",
+  "000000183176.jpg",
+  "000000469061.jpg",
+  "000000351176.jpg",
+  "000000461002.jpg",
+  "000000269462.jpg",
+  "000000522889.jpg"
+ ],
+ "faces": [
+  "face_232598.jpg",
+  "face_257657.jpg",
+  "face_362568.jpg",
+  "face_145621.jpg",
+  "face_449454.jpg",
+  "face_345145.jpg",
+  "face_405456.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-ChuTuanNgoc"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-ChuTuanNgoc"
+  },
+  "persons-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "persons-extra-ChuTuanNgoc"
+  },
+  "faces-extra": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "faces-extra-ChuTuanNgoc"
+  }
+ },
+ "persons_extra": [
+  "000000065350.jpg",
+  "000000337458.jpg",
+  "000000373426.jpg"
+ ],
+ "faces_extra": [
+  "face_300200.jpg",
+  "face_379585.jpg",
+  "face_45276.jpg",
+  "face_494518.jpg",
+  "face_507166.jpg"
+ ]
+}
